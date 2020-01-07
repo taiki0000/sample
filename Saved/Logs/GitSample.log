@@ -1,0 +1,860 @@
+﻿Log file open, 01/07/20 11:45:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GitSample
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.052715
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA Quadro RTX 5000
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Engine.ini]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Engine.ini]
+[2020.01.07-02.45.06:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Engine.ini]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Engine.ini]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.07-02.45.06:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Engine.ini]
+[2020.01.07-02.45.06:063][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Engine.ini]
+[2020.01.07-02.45.06:071][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.07-02.45.06:071][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.07-02.45.06:072][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.07-02.45.06:072][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.07-02.45.06:072][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.07-02.45.06:072][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.07-02.45.06:072][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:072][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.07-02.45.06:072][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.07-02.45.06:072][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.07-02.45.06:072][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.07-02.45.06:074][  0]LogHAL: Display: Platform has ~ 32 GB [34281312256 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.07-02.45.06:074][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.07-02.45.06:074][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.07-02.45.06:074][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Scalability.ini]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.07-02.45.06:075][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Config/Windows/Engine.ini]
+[2020.01.07-02.45.06:075][  0]LogInit: Computer: MYCOMPUTER
+[2020.01.07-02.45.06:075][  0]LogInit: User: taiki
+[2020.01.07-02.45.06:075][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.01.07-02.45.06:075][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.07-02.45.06:076][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.01.07-02.45.06:076][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.07-02.45.06:076][  0]LogMemory: Process Physical Memory: 104.90 MB used, 104.90 MB peak
+[2020.01.07-02.45.06:076][  0]LogMemory: Process Virtual Memory: 103.50 MB used, 103.50 MB peak
+[2020.01.07-02.45.06:076][  0]LogMemory: Physical Memory: 6247.80 MB used,  26445.41 MB free, 32693.21 MB total
+[2020.01.07-02.45.06:076][  0]LogMemory: Virtual Memory: 4696.83 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2020.01.07-02.45.06:077][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.07-02.45.06:100][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.01.07-02.45.06:100][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.01.07-02.45.06:100][  0]LogInit: Using OS detected locale (ja-JP).
+[2020.01.07-02.45.06:229][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.07-02.45.06:270][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.07-02.45.06:270][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.07-02.45.06:482][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.01.07-02.45.06:482][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.07-02.45.06:538][  0]LogD3D11RHI:    0. 'NVIDIA Quadro RTX 5000' (Feature Level 11_0)
+[2020.01.07-02.45.06:538][  0]LogD3D11RHI:       16170/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.07-02.45.06:539][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.07-02.45.06:539][  0]LogD3D11RHI:       0/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.07-02.45.06:539][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.07-02.45.06:544][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.07-02.45.06:544][  0]LogD3D11RHI:     GPU DeviceId: 0x1eb0 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.07-02.45.06:544][  0]LogWindows: EnumDisplayDevices:
+[2020.01.07-02.45.06:544][  0]LogWindows:    0. 'NVIDIA Quadro RTX 5000' (P:1 D:1)
+[2020.01.07-02.45.06:544][  0]LogWindows:    1. 'NVIDIA Quadro RTX 5000' (P:0 D:1)
+[2020.01.07-02.45.06:545][  0]LogWindows:    2. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2020.01.07-02.45.06:545][  0]LogWindows:    3. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2020.01.07-02.45.06:545][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.07-02.45.06:545][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro RTX 5000
+[2020.01.07-02.45.06:545][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.01.07-02.45.06:545][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.01.07-02.45.06:545][  0]LogRHI: Texture pool is 11319 MB (70% of 16170 MB)
+[2020.01.07-02.45.06:580][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.07-02.45.06:596][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.01.07-02.45.06:795][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.07-02.45.06:802][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.07-02.45.06:808][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.07-02.45.06:814][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.07-02.45.06:820][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.07-02.45.06:827][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.07-02.45.06:833][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.07-02.45.06:840][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.07-02.45.06:843][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.07-02.45.06:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.07-02.45.06:868][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.07-02.45.06:881][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.07-02.45.06:881][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.07-02.45.06:893][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.07-02.45.06:893][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.07-02.45.06:898][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.07-02.45.06:904][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.07-02.45.06:910][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.07-02.45.06:917][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.07-02.45.06:937][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.07-02.45.06:937][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.07-02.45.06:937][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.07-02.45.06:944][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.07-02.45.06:984][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Intermediate/Shaders/WorkingDirectory/17060/).
+[2020.01.07-02.45.06:984][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/taiki/AppData/Local/Temp/UnrealShaderWorkingDir/A83FFF834EA0F62AFC5673892D7F4CEF/'.
+[2020.01.07-02.45.06:986][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.07-02.45.06:986][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.07-02.45.06:986][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.07-02.45.07:441][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.07-02.45.07:481][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/taiki/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.07-02.45.07:481][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/taiki/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.07-02.45.07:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.07-02.45.07:481][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.07-02.45.07:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.07-02.45.07:481][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.07-02.45.07:490][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.07-02.45.07:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.07-02.45.07:490][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.07-02.45.07:491][  0]LogDerivedDataCache: Using Local data cache path C:/Users/taiki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.07-02.45.07:491][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.07-02.45.07:491][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.07-02.45.07:506][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.07-02.45.07:508][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.07-02.45.07:508][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.07-02.45.07:557][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2020.01.07-02.45.07:731][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.07-02.45.07:840][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.07-02.45.07:840][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.07-02.45.07:840][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.07-02.45.07:840][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.07-02.45.07:840][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.07-02.45.07:847][  0]LogNetVersion: GitSample 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3614835776)
+[2020.01.07-02.45.08:135][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.028817 seconds
+[2020.01.07-02.45.08:140][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.07-02.45.08:140][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.07-02.45.08:140][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.07-02.45.08:851][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.07-02.45.08:870][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.07-02.45.08:915][  0]SourceControl: Source control is disabled
+[2020.01.07-02.45.08:915][  0]SourceControl: Source control is disabled
+[2020.01.07-02.45.08:916][  0]SourceControl: Source control is disabled
+[2020.01.07-02.45.08:917][  0]SourceControl: Source control is disabled
+[2020.01.07-02.45.08:923][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.07-02.45.08:923][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.07-02.45.08:988][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.07-02.45.09:107][  0]LogOcInput: OculusInput pre-init called
+[2020.01.07-02.45.09:649][  0]LogEngine: Initializing Engine...
+[2020.01.07-02.45.09:693][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.01.07-02.45.09:694][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.07-02.45.09:850][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.07-02.45.09:861][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.07-02.45.09:884][  0]LogInit: XAudio2 using 'PL2792H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.07-02.45.09:910][  0]LogInit: FAudioDevice initialized.
+[2020.01.07-02.45.09:910][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.07-02.45.09:952][  0]LogDerivedDataCache: Saved boot cache 0.04s 76MB C:/Users/taiki/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.07-02.45.09:952][  0]LogInit: Texture streaming: Enabled
+[2020.01.07-02.45.09:966][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.07-02.45.09:966][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.07-02.45.09:967][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.07-02.45.09:982][  0]LogInit: Transaction tracking system initialized
+[2020.01.07-02.45.10:003][  0]BlueprintLog: New page: Editor Load
+[2020.01.07-02.45.10:075][  0]LocalizationService: Localization service is disabled
+[2020.01.07-02.45.10:147][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.07-02.45.10:148][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.07-02.45.10:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/taiki/OneDrive/デスクトップ/GitSample/Content/' took 0.00s
+[2020.01.07-02.45.10:267][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.07-02.45.10:267][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.07-02.45.10:410][  0]SourceControl: Source control is disabled
+[2020.01.07-02.45.10:411][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.23/FeaturePacks/StarterContent.upack)
+[2020.01.07-02.45.10:414][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.01.07-02.45.10:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.01.07-02.45.10:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.01.07-02.45.10:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.01.07-02.45.10:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.01.07-02.45.10:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.01.07-02.45.10:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.01.07-02.45.10:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.01.07-02.45.10:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.01.07-02.45.10:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.01.07-02.45.10:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.01.07-02.45.10:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.01.07-02.45.10:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.01.07-02.45.10:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.01.07-02.45.10:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.01.07-02.45.10:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.01.07-02.45.10:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.01.07-02.45.10:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.01.07-02.45.10:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Fire01.uasset"
+[2020.01.07-02.45.10:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.01.07-02.45.10:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.01.07-02.45.10:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.01.07-02.45.10:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Light01.uasset"
+[2020.01.07-02.45.10:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.01.07-02.45.10:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Light02.uasset"
+[2020.01.07-02.45.10:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.01.07-02.45.10:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.01.07-02.45.10:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.01.07-02.45.10:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.01.07-02.45.10:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.01.07-02.45.10:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.01.07-02.45.10:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.01.07-02.45.10:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.01.07-02.45.10:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.01.07-02.45.10:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Steam01.uasset"
+[2020.01.07-02.45.10:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.01.07-02.45.10:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.01.07-02.45.10:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.01.07-02.45.10:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.01.07-02.45.10:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.01.07-02.45.10:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.01.07-02.45.10:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.01.07-02.45.10:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.01.07-02.45.10:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.01.07-02.45.10:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.01.07-02.45.10:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.01.07-02.45.10:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.01.07-02.45.10:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.01.07-02.45.10:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.01.07-02.45.10:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.01.07-02.45.10:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.01.07-02.45.10:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.01.07-02.45.10:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.01.07-02.45.10:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.01.07-02.45.10:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.01.07-02.45.10:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.01.07-02.45.10:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.01.07-02.45.10:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Maps/StarterMap.umap"
+[2020.01.07-02.45.10:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.01.07-02.45.10:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.01.07-02.45.10:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.01.07-02.45.10:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.01.07-02.45.10:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.01.07-02.45.10:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.01.07-02.45.10:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.01.07-02.45.10:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.01.07-02.45.10:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.01.07-02.45.10:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.01.07-02.45.10:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.01.07-02.45.10:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.01.07-02.45.10:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.01.07-02.45.10:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.01.07-02.45.10:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.01.07-02.45.10:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.01.07-02.45.10:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.01.07-02.45.10:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.01.07-02.45.10:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.01.07-02.45.10:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.01.07-02.45.10:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.01.07-02.45.10:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.01.07-02.45.10:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.01.07-02.45.10:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.01.07-02.45.10:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.01.07-02.45.10:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.01.07-02.45.10:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.01.07-02.45.10:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.01.07-02.45.10:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.01.07-02.45.10:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.01.07-02.45.10:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.01.07-02.45.10:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.01.07-02.45.10:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.01.07-02.45.10:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.01.07-02.45.10:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.01.07-02.45.10:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.01.07-02.45.10:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.01.07-02.45.10:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.01.07-02.45.10:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.01.07-02.45.10:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.01.07-02.45.10:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.01.07-02.45.10:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.01.07-02.45.10:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.01.07-02.45.10:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.01.07-02.45.10:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.01.07-02.45.10:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.01.07-02.45.10:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.01.07-02.45.10:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.01.07-02.45.10:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.01.07-02.45.10:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.01.07-02.45.10:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.01.07-02.45.10:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.01.07-02.45.10:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.01.07-02.45.10:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.01.07-02.45.10:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.01.07-02.45.10:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.01.07-02.45.10:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.01.07-02.45.10:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.01.07-02.45.10:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.01.07-02.45.10:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.01.07-02.45.10:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.01.07-02.45.10:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.01.07-02.45.10:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.01.07-02.45.10:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.01.07-02.45.10:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.01.07-02.45.10:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Door.uasset"
+[2020.01.07-02.45.10:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.01.07-02.45.10:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.01.07-02.45.10:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.01.07-02.45.10:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.01.07-02.45.10:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.01.07-02.45.10:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.01.07-02.45.10:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.01.07-02.45.10:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.01.07-02.45.10:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.01.07-02.45.10:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.01.07-02.45.10:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.01.07-02.45.10:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.01.07-02.45.10:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.01.07-02.45.10:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.01.07-02.45.10:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.01.07-02.45.10:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.01.07-02.45.10:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.01.07-02.45.10:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.01.07-02.45.10:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.01.07-02.45.10:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.01.07-02.45.10:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.01.07-02.45.10:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.01.07-02.45.10:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.01.07-02.45.10:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.01.07-02.45.10:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.01.07-02.45.10:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.01.07-02.45.10:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.01.07-02.45.10:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.01.07-02.45.10:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.01.07-02.45.10:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.01.07-02.45.10:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.01.07-02.45.10:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.01.07-02.45.10:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.01.07-02.45.10:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.01.07-02.45.10:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.01.07-02.45.10:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.01.07-02.45.10:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.01.07-02.45.10:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.01.07-02.45.10:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.01.07-02.45.10:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.01.07-02.45.10:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.01.07-02.45.10:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.01.07-02.45.10:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.01.07-02.45.10:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.01.07-02.45.10:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.01.07-02.45.10:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.01.07-02.45.10:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.01.07-02.45.10:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.01.07-02.45.10:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.01.07-02.45.10:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.01.07-02.45.10:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.01.07-02.45.10:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.01.07-02.45.10:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.01.07-02.45.10:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.01.07-02.45.10:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.01.07-02.45.10:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.01.07-02.45.10:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.01.07-02.45.10:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.01.07-02.45.10:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.01.07-02.45.10:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.01.07-02.45.10:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.01.07-02.45.10:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.01.07-02.45.10:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.01.07-02.45.10:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.01.07-02.45.10:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.01.07-02.45.10:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.01.07-02.45.10:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.01.07-02.45.10:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.01.07-02.45.10:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.01.07-02.45.10:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.01.07-02.45.10:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.01.07-02.45.10:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.01.07-02.45.10:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.01.07-02.45.10:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.01.07-02.45.10:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.01.07-02.45.10:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.01.07-02.45.10:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.01.07-02.45.10:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.01.07-02.45.10:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.01.07-02.45.10:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.01.07-02.45.10:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.01.07-02.45.10:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.01.07-02.45.10:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.01.07-02.45.10:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.01.07-02.45.10:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.01.07-02.45.10:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.01.07-02.45.10:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.01.07-02.45.10:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.01.07-02.45.10:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.01.07-02.45.10:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.01.07-02.45.10:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.01.07-02.45.10:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.01.07-02.45.10:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.01.07-02.45.10:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.01.07-02.45.10:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.01.07-02.45.10:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.01.07-02.45.10:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.01.07-02.45.10:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.01.07-02.45.10:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.01.07-02.45.10:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.01.07-02.45.10:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.01.07-02.45.10:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.01.07-02.45.10:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.01.07-02.45.10:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.01.07-02.45.10:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.01.07-02.45.10:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.01.07-02.45.10:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.01.07-02.45.10:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.01.07-02.45.10:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.01.07-02.45.10:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.01.07-02.45.10:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.01.07-02.45.10:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.01.07-02.45.10:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.01.07-02.45.10:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.01.07-02.45.10:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.01.07-02.45.10:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.01.07-02.45.10:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.01.07-02.45.10:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.01.07-02.45.10:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.01.07-02.45.10:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.01.07-02.45.10:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.01.07-02.45.10:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.01.07-02.45.10:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.01.07-02.45.10:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.01.07-02.45.10:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.01.07-02.45.10:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.01.07-02.45.10:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.01.07-02.45.10:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.01.07-02.45.10:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.01.07-02.45.10:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.01.07-02.45.10:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.01.07-02.45.10:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.01.07-02.45.10:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.01.07-02.45.10:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.01.07-02.45.10:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.01.07-02.45.10:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.01.07-02.45.10:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.01.07-02.45.10:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.01.07-02.45.10:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.01.07-02.45.10:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.01.07-02.45.10:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.01.07-02.45.10:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.01.07-02.45.10:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.01.07-02.45.10:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.01.07-02.45.10:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.01.07-02.45.10:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.01.07-02.45.10:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.01.07-02.45.10:796][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.01.07-02.45.10:857][  0]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Floor_400x40071ED3BC74D38FCDBA834DBB53E6AF7CB.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.01.07-02.45.10:858][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.01.07-02.45.10:859][  0]Cmd: MAP LOAD FILE="../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.07-02.45.10:859][  0]LightingResults: New page: Lighting Build
+[2020.01.07-02.45.10:861][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.07-02.45.10:861][  0]MapCheck: New page: Map Check
+[2020.01.07-02.45.10:861][  0]LightingResults: New page: Lighting Build
+[2020.01.07-02.45.10:884][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.01.07-02.45.11:077][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.07-02.45.11:090][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.07-02.45.11:113][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.01.07-02.45.11:113][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.07-02.45.11:113][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2020.01.07-02.45.11:113][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.254
+[2020.01.07-02.45.11:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-02.45.11:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-02.45.11:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-02.45.11:217][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.07-02.45.11:222][  0]LogCollectionManager: Loaded 0 collections in 0.001308 seconds
+[2020.01.07-02.45.11:228][  0]LogFileCache: Scanning file cache for directory 'C:/Users/taiki/OneDrive/デスクトップ/GitSample/Saved/Collections/' took 0.00s
+[2020.01.07-02.45.11:228][  0]LogFileCache: Scanning file cache for directory 'C:/Users/taiki/OneDrive/デスクトップ/GitSample/Content/Developers/taiki/Collections/' took 0.00s
+[2020.01.07-02.45.11:228][  0]LogFileCache: Scanning file cache for directory 'C:/Users/taiki/OneDrive/デスクトップ/GitSample/Content/Collections/' took 0.00s
+[2020.01.07-02.45.11:228][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.07-02.45.11:235][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2863 classes and 680 folders.
+[2020.01.07-02.45.11:240][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.07-02.45.11:294][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.07-02.45.11:298][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.01.07-02.45.11:309][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.07-02.45.11:311][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.07-02.45.11:313][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.07-02.45.11:340][  0]LogRenderer: Reallocating scene render targets to support 1208x512 Format 10 NumSamples 1 (Frame:1).
+[2020.01.07-02.45.11:360][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.07-02.45.11:391][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.07-02.45.11:391][  0]LogLoad: (Engine Initialization) Total time: 7.23 seconds
+[2020.01.07-02.45.11:391][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.07-02.45.11:435][  0]LogAssetRegistry: Asset discovery search completed in 3.8795 seconds
+[2020.01.07-02.45.11:438][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.01.07-02.45.11:438][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.01.07-02.45.11:535][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.07-02.45.17:475][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-02.49.11:816][745]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F0A2A043-47DC-504B-6047-8DA7804B517A}
+[2020.01.07-02.50.11:897][924]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={0CD049C9-4FBD-A3B3-ACA4-6C9F0A789B6D}
+[2020.01.07-02.50.11:897][924]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={9DDFA3ED-4DFB-1D08-B5C8-86BF5DD89F68}
+[2020.01.07-02.51.11:982][103]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={71D8B5BA-423A-01BE-E63B-90A8EEC84875}
+[2020.01.07-02.52.11:988][282]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={41392A71-4143-D81D-CF67-CF80AE9814C7}
+[2020.01.07-02.52.11:988][282]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={2FA28E79-4171-F93A-D5D6-AA8626E6511D}
+[2020.01.07-02.52.11:988][282]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3D3BB459-4004-A505-FE9D-AEAEBDB245BC}
+[2020.01.07-02.55.12:131][819]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A804D33F-4103-A83F-2E38-42B172B0B831}
+[2020.01.07-02.57.20:542][264]LogSlate: Took 0.001146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.07-02.57.28:320][197]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.07-02.58.14:459][732]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-02.58.15:846][898]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-02.58.16:819][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-02.58.17:474][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-02.58.25:826][  8]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.07-02.58.50:435][935]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.07-02.58.50:439][935]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.07-03.00.46:680][838]SourceControl: fatal: /Script: '/Script' is outside repository
+[2020.01.07-03.00.48:029][  0]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.01.07-03.00.48:033][  0]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.01.07-03.53.13:750][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.01.07-03.53.15:479][672]Cmd: DELETE
+[2020.01.07-03.53.15:479][672]Cmd: ACTOR DELETE
+[2020.01.07-03.53.15:484][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.07-03.53.15:505][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.07-03.53.15:506][672]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.01.07-03.53.16:955][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2020.01.07-03.53.17:902][957]Cmd: DELETE
+[2020.01.07-03.53.17:902][957]Cmd: ACTOR DELETE
+[2020.01.07-03.53.17:903][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.07-03.53.17:923][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.01.07-03.53.17:924][957]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.01.07-03.53.19:495][146]Cmd: POLY SELECT ALL
+[2020.01.07-03.53.20:638][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-03.53.20:756][292]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.07-03.53.20:786][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.01.07-03.53.20:879][292]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMap5DF09D354AD691CD3EE93A994DF14493.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.07-03.53.21:009][292]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMap_BuiltData50EA033A4064FC5B89F8498CF7D9259B.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.07-03.53.22:676][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
