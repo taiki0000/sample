@@ -858,3 +858,244 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.07-03.53.20:879][292]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMap5DF09D354AD691CD3EE93A994DF14493.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.01.07-03.53.21:009][292]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMap_BuiltData50EA033A4064FC5B89F8498CF7D9259B.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2020.01.07-03.53.22:676][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.07-07.32.34:634][830]LogInit: XAudio2 using 'PL2792H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.07-07.32.34:928][831]LogInit: XAudio2 using 'PL2792H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.07-07.32.39:310][844]LogInit: XAudio2 using 'PL2792H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.07-07.32.39:638][845]LogInit: XAudio2 using 'PL2792H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7BEBA6E-41B5-23DA-B24E-41B6374EAB23%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=57f6ff0f4cb671aeb69fd69f8db9cee7%7Cfcde235cef6140adb81e42fc365dbba3%7C5a4420b4-2868-4c77-ae6a-94bc78ce1cc8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2a6de967f70 [can pipeline])
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.16.87) port 443 (#10))
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.07-07.32.48:262][881]LogHttp: Warning: 000002A6F61F2700: libcurl info message cache 7 (Closing connection 10)
+[2020.01.07-07.32.48:599][882]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7BEBA6E-41B5-23DA-B24E-41B6374EAB23%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=57f6ff0f4cb671aeb69fd69f8db9cee7%7Cfcde235cef6140adb81e42fc365dbba3%7C5a4420b4-2868-4c77-ae6a-94bc78ce1cc8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.07-07.40.42:115][294]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.40.53:226][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.07-07.40.54:194][708]MapCheck: New page: Map Check
+[2020.01.07-07.40.54:204][708]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.40.54:213][708]LightingResults: New page: Lighting Build - 2020/01/08 1:40:54
+[2020.01.07-07.40.54:242][708]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.01.07-07.40.54:277][708]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.01.07-07.40.54:286][708]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.01.07-07.40.54:794][708]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.01.07-07.40.54:794][708]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17060
+[2020.01.07-07.40.57:339][708]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.01.07-07.40.57:339][708]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.01.07-07.40.57:339][708]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.01.07-07.40.57:339][708]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.01.07-07.40.57:339][708]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.01.07-07.40.57:442][708]LogEditorBuildUtils: Build time 0:03
+[2020.01.07-07.40.57:468][709]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.01.07-07.40.57:480][709]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.01.07-07.40.57:486][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.01.07-07.40.57:486][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.01.07-07.40.57:502][710]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.01.07-07.40.57:509][710]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.01.07-07.40.57:509][710]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.01.07-07.40.57:509][710]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.01.07-07.40.58:122][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.01.07-07.40.58:123][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.01.07-07.40.58:212][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.01.07-07.41.00:714][911]Job is a success!
+[2020.01.07-07.41.00:761][912]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.01.07-07.41.00:761][912]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.01.07-07.41.00:761][912]LogVolumetricLightmapImport:      BrickData 225x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.01.07-07.41.00:761][912]LogVolumetricLightmapImport:      Bricks at Level
+[2020.01.07-07.41.00:761][912]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.01.07-07.41.00:761][912]LogVolumetricLightmapImport:          1: 8.9% covering 6.3% of volume
+[2020.01.07-07.41.00:761][912]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.01.07-07.41.01:039][912]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.01.07-07.41.01:183][912]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.01.07-07.41.01:183][912]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.01.07-07.41.01:201][912]Lightmass on MYCOMPUTER: 2.40 sec total, 75 ms importing, 20 ms setup, 486 ms photons, 1.79 sec processing, 0 ms extra exporting [10/10 mappings]. Threads: 12.5 sec total, 3.40 sec processing.
+[2020.01.07-07.41.01:204][912]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.01.07-07.41.01:226][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.01.07-07.41.01:234][912]LogStaticLightingSystem: Illumination: 7.01 sec (247 ms encoding lightmaps, 140 ms encoding shadowmaps)
+[2020.01.07-07.41.01:234][912]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.01.07-07.41.01:234][912]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.01.07-07.41.01:341][912]DumpUnbuiltLightIteractions
+[2020.01.07-07.41.01:341][912]Lights with unbuilt interactions: 0
+[2020.01.07-07.41.01:341][912]
+[2020.01.07-07.41.01:341][912]Primitives with unbuilt interactions: 0
+[2020.01.07-07.41.01:381][913]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.01.07-07.41.01:382][913]MapCheck: New page: ThirdPersonExampleMap - 2020/01/08 1:41:01
+[2020.01.07-07.41.01:383][913]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.202ms to complete.
+[2020.01.07-07.41.22:522][ 66]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2020.01.07-07.41.22:635][ 66]EditorErrors: Warning: No assets to check in!
+[2020.01.07-07.41.30:006][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.01.07-07.41.30:091][939]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMapDBF9D32F4F4524ADF5B2A38358B266C8.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.07-07.41.30:100][939]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.117
+[2020.01.07-07.41.30:146][939]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMap_BuiltData3BC9572B4BDE617919381DBF37A5F1FF.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.07-07.41.45:221][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2020.01.07-07.41.58:753][600]LogSlate: Window 'Submit Files' being destroyed
+[2020.01.07-07.41.59:446][600]LogSourceControl: commit successful: [master 666b4f9] hey
+[2020.01.07-07.41.59:479][600]SourceControl: [master 666b4f9] hey
+[2020.01.07-07.41.59:479][600]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.01.07-07.41.59:479][600]SourceControl:  rewrite Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset (63%)
+[2020.01.07-07.41.59:483][600]SourceControl: Commited [master 666b4f9] hey.
+[2020.01.07-07.42.21:046][175]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2020.01.07-07.42.21:076][175]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.42.21:966][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.01.07-07.42.23:838][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-07.43.00:620][916]LogSlate: Window 'Source Control Login' being destroyed
+[2020.01.07-07.43.04:966][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-07.43.06:307][598]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2020.01.07-07.43.06:420][598]EditorErrors: Warning: No assets to check in!
+[2020.01.07-07.43.08:655][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-07.43.11:330][185]LogSlate: Window 'Message Log' being destroyed
+[2020.01.07-07.43.11:334][185]LogSlate: Window 'Message Log' being destroyed
+[2020.01.07-07.43.48:794][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-07.43.50:032][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.01.07-07.43.51:783][179]Cmd: TRANSACTION UNDO
+[2020.01.07-07.43.51:783][179]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.01.07-07.44.00:166][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.01.07-07.44.05:154][503]MapCheck: New page: Map Check
+[2020.01.07-07.44.05:160][503]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.44.05:163][503]LightingResults: New page: Lighting Build - 2020/01/08 1:44:05
+[2020.01.07-07.44.05:168][503]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.01.07-07.44.05:170][503]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.01.07-07.44.05:170][503]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.01.07-07.44.05:171][503]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.01.07-07.44.05:171][503]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17060
+[2020.01.07-07.44.09:702][503]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.01.07-07.44.09:702][503]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.01.07-07.44.09:702][503]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.01.07-07.44.09:702][503]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.01.07-07.44.09:702][503]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.01.07-07.44.09:769][503]LogEditorBuildUtils: Build time 0:04
+[2020.01.07-07.44.09:799][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.01.07-07.44.12:203][696]Job is a success!
+[2020.01.07-07.44.12:222][698]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.44.12:247][698]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.01.07-07.44.12:247][698]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.01.07-07.44.12:247][698]LogVolumetricLightmapImport:      BrickData 225x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.01.07-07.44.12:247][698]LogVolumetricLightmapImport:      Bricks at Level
+[2020.01.07-07.44.12:247][698]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.01.07-07.44.12:247][698]LogVolumetricLightmapImport:          1: 8.9% covering 6.3% of volume
+[2020.01.07-07.44.12:247][698]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.01.07-07.44.12:540][698]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.01.07-07.44.12:682][698]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.01.07-07.44.12:682][698]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.01.07-07.44.12:692][698]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.01.07-07.44.12:714][698]Lightmass on MYCOMPUTER: 2.38 sec total, 69 ms importing, 33 ms setup, 485 ms photons, 1.77 sec processing, 0 ms extra exporting [10/10 mappings]. Threads: 12.4 sec total, 3.74 sec processing.
+[2020.01.07-07.44.12:715][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.01.07-07.44.12:721][698]LogStaticLightingSystem: Illumination: 7.54 sec (266 ms encoding lightmaps, 139 ms encoding shadowmaps)
+[2020.01.07-07.44.12:721][698]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.01.07-07.44.12:721][698]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.01.07-07.44.13:705][698]DumpUnbuiltLightIteractions
+[2020.01.07-07.44.13:705][698]Lights with unbuilt interactions: 0
+[2020.01.07-07.44.13:705][698]
+[2020.01.07-07.44.13:705][698]Primitives with unbuilt interactions: 0
+[2020.01.07-07.44.13:709][698]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.44.13:759][699]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.01.07-07.44.13:759][699]MapCheck: New page: ThirdPersonExampleMap - 2020/01/08 1:44:13
+[2020.01.07-07.44.13:759][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.277ms to complete.
+[2020.01.07-07.44.15:497][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-07.44.17:275][120]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.44.17:332][120]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.44.17:357][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.01.07-07.44.17:435][120]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMapA8AB2CF8412F9596CD9B43B08F993AE8.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.07-07.44.17:445][120]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.110
+[2020.01.07-07.44.17:488][120]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMap_BuiltData30EF32AB4E624D8617D1C5BFB2CBEE55.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.07-07.44.19:035][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-07.44.20:477][476]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2020.01.07-07.44.20:598][476]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.44.26:063][476]LogSlate: Window 'Submit Files' being destroyed
+[2020.01.07-07.44.26:070][476]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.44.26:155][476]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.44.26:783][476]LogSourceControl: commit successful: [master a659ebf] fgsdfs
+[2020.01.07-07.44.26:816][476]SourceControl: [master a659ebf] fgsdfs
+[2020.01.07-07.44.26:816][476]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.01.07-07.44.26:816][476]SourceControl:  rewrite Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset (61%)
+[2020.01.07-07.44.26:821][476]SourceControl: Commited [master a659ebf] fgsdfs.
+[2020.01.07-07.44.29:821][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.07-07.45.33:835][370]LogSlate: Window 'Message Log' being destroyed
+[2020.01.07-07.45.33:838][370]LogSlate: Window 'Message Log' being destroyed
+[2020.01.07-07.45.39:019][991]MapCheck: New page: Map Check
+[2020.01.07-07.45.39:029][991]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.45.39:031][991]LightingResults: New page: Lighting Build - 2020/01/08 1:45:39
+[2020.01.07-07.45.39:037][991]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.01.07-07.45.39:039][991]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.01.07-07.45.39:039][991]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.01.07-07.45.39:040][991]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.01.07-07.45.39:040][991]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17060
+[2020.01.07-07.45.43:549][991]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.01.07-07.45.43:549][991]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.01.07-07.45.43:549][991]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.01.07-07.45.43:549][991]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.01.07-07.45.43:549][991]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.01.07-07.45.43:614][991]LogEditorBuildUtils: Build time 0:04
+[2020.01.07-07.45.43:646][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.07-07.45.45:951][176]Job is a success!
+[2020.01.07-07.45.45:970][178]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.45.45:993][178]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.01.07-07.45.45:993][178]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.01.07-07.45.45:993][178]LogVolumetricLightmapImport:      BrickData 220x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.01.07-07.45.45:993][178]LogVolumetricLightmapImport:      Bricks at Level
+[2020.01.07-07.45.45:993][178]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.01.07-07.45.45:993][178]LogVolumetricLightmapImport:          1: 9.1% covering 6.3% of volume
+[2020.01.07-07.45.45:993][178]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.01.07-07.45.46:268][178]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.01.07-07.45.46:410][178]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2020.01.07-07.45.46:411][178]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.01.07-07.45.46:421][178]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2020.01.07-07.45.46:443][178]Lightmass on MYCOMPUTER: 2.34 sec total, 70 ms importing, 30 ms setup, 457 ms photons, 1.75 sec processing, 0 ms extra exporting [10/10 mappings]. Threads: 12.2 sec total, 3.32 sec processing.
+[2020.01.07-07.45.46:444][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.01.07-07.45.46:451][178]LogStaticLightingSystem: Illumination: 7.40 sec (247 ms encoding lightmaps, 139 ms encoding shadowmaps)
+[2020.01.07-07.45.46:451][178]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.01.07-07.45.46:451][178]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.01.07-07.45.46:550][178]DumpUnbuiltLightIteractions
+[2020.01.07-07.45.46:550][178]Lights with unbuilt interactions: 0
+[2020.01.07-07.45.46:550][178]
+[2020.01.07-07.45.46:550][178]Primitives with unbuilt interactions: 0
+[2020.01.07-07.45.46:555][178]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.45.46:587][179]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.01.07-07.45.46:587][179]MapCheck: New page: ThirdPersonExampleMap - 2020/01/08 1:45:46
+[2020.01.07-07.45.46:587][179]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.279ms to complete.
+[2020.01.07-07.46.07:075][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-07.46.10:170][  8]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.46.10:225][  8]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.46.10:250][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.01.07-07.46.10:330][  8]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMap811CEEC0406BCE6D507B5FB1FD8808B5.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.07-07.46.10:340][  8]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.111
+[2020.01.07-07.46.10:381][  8]LogSavePackage: Moving '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Saved/ThirdPersonExampleMap_BuiltData6B01C8FA44FBB276BD3C2B86D3402B95.tmp' to '../../../../../../Users/taiki/OneDrive/デスクトップ/GitSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.07-07.46.11:986][198]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.07-07.46.13:370][364]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2020.01.07-07.46.13:484][364]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.46.23:918][364]LogSlate: Window 'Submit Files' being destroyed
+[2020.01.07-07.46.23:925][364]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.46.24:009][364]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.07-07.46.24:661][364]LogSourceControl: commit successful: [master 792980f] xZ
+[2020.01.07-07.46.24:695][364]SourceControl: [master 792980f] xZ
+[2020.01.07-07.46.24:695][364]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.01.07-07.46.24:695][364]SourceControl:  rewrite Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset (61%)
+[2020.01.07-07.46.24:700][364]SourceControl: Commited [master 792980f] xZ.
+[2020.01.07-07.46.28:056][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
