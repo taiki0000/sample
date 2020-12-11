@@ -21,7 +21,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-          - uses: deka0106/upload-to-dropbox@v2
+          - uses: deka0106/upload-to-dropbox@v2.0.0
           with:
               dropbox_access_token: ${sl.AnM4jyfV74hapnpf4rU_zKyvjFvqa99pPZpGIM0kUnn7ac9QWnbPrfAhLtr_XLXw64dKv_iqN8VzsYK3hblBYzMLrCGMH5mwfDvlRqzYD6W-pXrZXg9STctgjQEo47j2jGGTaE0}
             src: sample/
