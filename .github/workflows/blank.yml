@@ -1,22 +1,51 @@
-name: Deploy to AppStore Connect
-
+name: "build-test"
 on:
   push:
     branches:
-      - master
+      - main
+      - "releases/*"
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: deka0106/upload-to-dropbox@v2
-      with:
-        dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
-        src: Config/**/*
-        dest: /thesis/
-        mode: overwrite
-
+      - uses: actions/checkout@v2
+      - run: |
+          npm install
+      - run: |
+          npm run all
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create a file
+        run: |
+          echo "Hello" > file.txt
+      - name: Upload a file
+        uses: ./
+        with:
+          dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
+          src: file.txt
+          dest: /test/my-file.txt
+      - name: Update file
+        run: |
+          echo "Hello updated" > file.txt
+      - name: Overwrite file on Dropbox
+        uses: ./
+        with:
+          dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
+          src: file.txt
+          dest: /test/my-file.txt
+          mode: overwrite
+      - name: Create files
+        run: |
+          mkdir files
+          echo "Hello" > files/file-0.txt
+          echo "Hello" > files/file-1.txt
+      - name: Upload multiple files
+        uses: ./
+        with:
+          dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
+          src: files/*.txt
+          dest: /test/
+          multiple: true
