@@ -21,7 +21,7 @@ jobs:
         run: |
           echo "Hello" > file.txt
       - name: Upload a file
-        uses: ./
+        uses: deka0106/upload-to-dropbox@v2.0.0
         with:
           dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
           src: file.txt
@@ -30,7 +30,7 @@ jobs:
         run: |
           echo "Hello updated" > file.txt
       - name: Overwrite file on Dropbox
-        uses: ./
+        uses: deka0106/upload-to-dropbox@v2.0.0
         with:
           dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
           src: file.txt
@@ -42,7 +42,7 @@ jobs:
           echo "Hello" > files/file-0.txt
           echo "Hello" > files/file-1.txt
       - name: Upload multiple files
-        uses: ./
+        uses: deka0106/upload-to-dropbox@v2.0.0
         with:
           dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
           src: files/*.txt
