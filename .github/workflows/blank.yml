@@ -1,24 +1,16 @@
-name: "build-test"
+name: "upload-zip-to-DropBox"
 on:
   push:
     branches:
       - master
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - run: |
-          npm install
-      - run: |
-          npm run all
-  test:
+  upload:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Zip Folder
-        run: zip -r release.zip .
+        run: zip -r release.zip Config
       - name: Upload a file
         uses: deka0106/upload-to-dropbox@v2.0.0
         with:
@@ -26,30 +18,4 @@ jobs:
           src: release.zip
           dest: /
           mode: overwrite
-      - uses: actions/checkout@v2
-      - uses: papeloto/action-zip@v1
-        with:
-          files: dist/ manifest.json
-          dest: result.zip
-      - name: Update file
-        run: |
-          echo "Hello updated" > file.txt
-      - name: Overwrite file on Dropbox
-        uses: deka0106/upload-to-dropbox@v2.0.0
-        with:
-          dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
-          src: file.txt
-          dest: /test/my-file.txt
-          mode: overwrite
-      - name: Create files
-        run: |
-          mkdir files
-          echo "Hello" > files/file-0.txt
-          echo "Hello" > files/file-1.txt
-      - name: Upload multiple files
-        uses: deka0106/upload-to-dropbox@v2.0.0
-        with:
-          dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
-          src: files/*.txt
-          dest: /test/
-          multiple: true
+  
