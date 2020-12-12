@@ -13,14 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # 2: キャッシュを使う
-    - uses: actions/cache@v1
-      with:
-        path: Pods
-        key: ${{ runner.os }}-pods-${{ hashFiles('**/Podfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-pods-
-          
     - name: Upload to Dropbox
     uses: deka0106/upload-to-dropbox@v2.0.0
     dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
