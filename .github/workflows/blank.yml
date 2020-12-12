@@ -24,7 +24,7 @@ jobs:
         with:
           dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
           src: release.zip
-          dest: /test/my-file.txt
+          dest: /test/
       - uses: actions/checkout@v2
       - uses: papeloto/action-zip@v1
         with:
