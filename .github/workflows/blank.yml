@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Zip Folder
-        run: zip -r poupelle.zip Content
+        run: zip -r poupelle.zip Saved
       - name: Upload a file
         uses: deka0106/upload-to-dropbox@v2.0.0
         with:
